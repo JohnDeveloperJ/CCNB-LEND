@@ -23,4 +23,4 @@ The core functionality of the protocol is implemented in the `LiquidityProtocol.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/liquidity-protocol.git
+   gh repo clone JohnDeveloperJ/CCNB-LEND
